@@ -3,7 +3,7 @@
  <!--<details>-->
    <!--<summary> -->
 
-#### [Записи занять](https://cernbox.cern.ch/s/7AeztwiiABbqREH)
+#### [Записи занять](https://cernbox.cern.ch/s/7B1M0rt8WeQiFfT)
 
   <!--</summary>-->
   Додакткові матеріали:  
