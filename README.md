@@ -11,5 +11,5 @@
      - [слайди1](https://github.com/zenaiev/hep2025_analysis/blob/main/1/OZ_dataValidation_Top_2016.12.13.pdf) [слайди2](https://github.com/zenaiev/hep2025_analysis/blob/main/1/cms_od_ttbar.pdf) 
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/1/play_ttbar.py)
      - домашнє завдання: додати обмеження на b, bbar струмені pT(b,bbar) > 30, |eta(b,bar)| < 2.4 (використовувати гілки mcB, mcBbar) та обчислити ефективність
-  - 24.09.2024 (продовжували використовували CMS open data МК файл для процесів із ttbar та методи RdataFrame для побудови розподілів різних кінематичних змінних)
+  - 24.09.2024 (продовжували використовувати CMS open data МК файл для процесів із ttbar та методи RdataFrame для побудови розподілів різних кінематичних змінних)
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/2/play_ttbar.py)
