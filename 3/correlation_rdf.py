@@ -1,5 +1,5 @@
 import ROOT
-ROOT.EnableImplicitMT()
+ROOT.EnableImplicitMT(3)
 
 #rdf = ROOT.RDataFrame('tree', 'ttbarSel_merged.root')
 rdf = ROOT.RDataFrame('tree', ['ttbarSel_merged.root']*1000)
