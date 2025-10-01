@@ -13,3 +13,6 @@
      - домашнє завдання: додати обмеження на b, bbar струмені pT(b,bbar) > 30, |eta(b,bar)| < 2.4 (використовувати гілки mcB, mcBbar) та обчислити ефективність
   - 24.09.2025 (продовжували використовувати CMS open data МК файл для процесів із ttbar та методи RdataFrame для побудови розподілів різних кінематичних змінних)
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/2/play_ttbar.py)
+  - 01.10.2025 (продовжували використовувати CMS open data МК файл для процесів із ttbar та методи RdataFrame для дослідження кореляцій кінематичних змінних)
+     - [код1](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_loop.py) [код2](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_rdf.py)
+     - домашнє завдання: обчислити кореляцію py, pz та m компонент 4-векторів топ і анитоп кварків
