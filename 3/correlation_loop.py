@@ -1,7 +1,8 @@
 import ROOT
 import array
 
-nrepeat = 1000
+nrepeat = 1
+#nrepeat = 1000
 f = ROOT.TFile('ttbarSel_merged.root')
 t = f.Get('tree')
 t.SetBranchStatus("*", 0)
@@ -33,5 +34,5 @@ mean_yy /= n
 mean_xy /= n
 sigma_x = (mean_xx - mean_x**2)**0.5
 sigma_y = (mean_yy - mean_y**2)**0.5
-cor = (mean_xy - mean_x) / (sigma_x * sigma_y)
+cor = (mean_xy - mean_x * mean_y) / (sigma_x * sigma_y)
 print(f'cor = {cor}')
