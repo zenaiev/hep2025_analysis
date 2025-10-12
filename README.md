@@ -17,4 +17,4 @@
      - [код1](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_loop.py) [код2](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_rdf.py)
      - домашнє завдання: обчислити кореляцію py, pz та m компонент 4-векторів топ і анитоп кварків
   - 08.10.2025 (рахували кореляційну матриці для кінематичних змінних у CMS open data)
-     - [код1](https://github.com/zenaiev/hep2025_analysis/tree/main/4/correlation_metrix_rdf.py) [код2](https://github.com/zenaiev/hep2025_analysis/tree/main/4/correlation_matrix_rdf.py)
+     - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/4/correlation_metrix_rdf.py)
