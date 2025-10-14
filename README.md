@@ -16,5 +16,7 @@
   - 01.10.2025 (продовжували використовувати CMS open data МК файл для процесів із ttbar та методи RdataFrame для дослідження кореляцій кінематичних змінних)
      - [код1](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_loop.py) [код2](https://github.com/zenaiev/hep2025_analysis/tree/main/3/correlation_rdf.py)
      - домашнє завдання: обчислити кореляцію py, pz та m компонент 4-векторів топ і анитоп кварків
-  - 08.10.2025 (рахували кореляційну матриці для кінематичних змінних у CMS open data)
+  - 08.10.2025 (рахували кореляційні матриці для кінематичних змінних у CMS open data)
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/4/correlation_matrix_rdf.py)
+  - 14.10.2025 (рахували метчінг (співставлення) між генераторним і реконструйованими для лептонів та адронних струменів)
+     - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/5/matching.py)
