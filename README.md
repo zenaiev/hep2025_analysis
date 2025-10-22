@@ -20,3 +20,5 @@
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/4/correlation_matrix_rdf.py)
   - 14.10.2025 (рахували метчінг (співставлення) між генераторним і реконструйованими для лептонів та адронних струменів)
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/5/matching.py)
+  - 22.10.2025 (рахували матрицю відгуку, purity та stability)
+     - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/6/matching.py)
