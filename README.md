@@ -23,4 +23,4 @@
   - 22.10.2025 (рахували матрицю відгуку, purity та stability)
      - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/6/matching_response.py)
   - 28.10.2025 (продовжували обрахунок purity та stability)
-     - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/7/matching_response.py)
+     - [код](https://github.com/zenaiev/hep2025_analysis/tree/main/7/matching.py)
