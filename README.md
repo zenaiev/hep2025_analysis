@@ -29,7 +29,7 @@
   - 12.11.2025 (обчислювали диференціальний переріз обертаючи матрицю відгуку, розглядали анфолдінг TUnfold)
      - [код для обрахунку перерізів](https://github.com/zenaiev/hep2025_analysis/tree/main/8/matching.py)
      - [код для TUnfold](https://github.com/zenaiev/hep2025_analysis/tree/main/unfold/unfold.py)
-     - [слайди по TUnfold](https://github.com/zenaiev/hep2025_analysis/tree/slides/unfold/unfolding.pdf)
+     - [слайди по TUnfold](https://github.com/zenaiev/hep2025_analysis/tree/main/unfold/unfolding.pdf)
   - 19.11.2025 (повторення + консультація)
   - 12.11.2025 (залік)
      - [завдання на залік](https://github.com/zenaiev/hep2025_analysis/tasks/tasks.txt)
