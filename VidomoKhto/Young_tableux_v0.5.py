@@ -219,10 +219,10 @@ def generate_all_tableaux(n, start_table1, start0_table2):
 
     # Цикл триває, доки джерело (t2) не стане порожнім
     # Ми перевіряємо, чи є там рядки і чи є в першому рядку елементи
-    print("\n")
+    #print("\n")
     while current_source_t2 and current_source_t2[0]:
         
-        print(f"КРОК {step_counter}: Варіантів у роботі {len(current_variants)}")
+        #print(f"КРОК {step_counter}: Варіантів у роботі {len(current_variants)}")
         
         next_generation_variants = []
         next_source_t2_ref = None
