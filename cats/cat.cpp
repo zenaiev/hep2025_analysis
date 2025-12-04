@@ -1,3 +1,5 @@
+// g++ -o cat cat.cpp
+
 #include <cstdio>
 #include <vector>
 
